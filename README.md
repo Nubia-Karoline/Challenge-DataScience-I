@@ -39,9 +39,13 @@ Com base nessa análise, foi possível comparar o desempenho entre as lojas e in
 
 # 🔨Ferramentas de Desenvolvimento
 Google Collab
+
 Python
+
 Biblioteca Matplotlib
+
 Biblioteca Pandas
+
 
 # Autora
 ![image](https://github.com/user-attachments/assets/0016e7ba-9c6d-4d6a-b604-1b9ef4157b6d)
