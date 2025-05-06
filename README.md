@@ -9,7 +9,7 @@ Com base nessa análise, foi possível comparar o desempenho entre as lojas e in
 # 🗂 Métodos Utilizados
 ▪ GoogleColab, notebook principal onde toda a análise foi realizada.
 
-▪ Gráficos gerados no GoogleColab durante a análise (faturamento total, faturamento por categoria, media das avaliações, frete e os mais e menos vendidos).
+▪ Gráficos gerados no GoogleColab durante a análise (faturamento total, faturamento por categoria, média das avaliações, frete e os mais e menos vendidos).
 
 ▪ As imagens dos gráficos podem ser baixados como resumo visual da análise (opcional).
 
